@@ -1,0 +1,2 @@
+# Memprediksi-Faktor-Penyebab-Pelanggan-Berhenti-Menyewa-Unit-Rusunawa-Menggunakan-SVM
+Penerapan metode SVM untuk menganalisis faktor penyebab pelanggan berhenti menyewa unit rumah susun sewa membuka peluang pemanfaatan teknologi analitik seperti Big Data, Data Mining, dan Machine Learning yang memungkinkan perusahaan menggali wawasan lebih dalam, memperoleh informasi akurat, serta mengambil tindakan preventif yang lebih tepat.
